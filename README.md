@@ -1,6 +1,6 @@
-###Moive Tickets
+##Moive Tickets
 
-#### Explaination:
+### Explaination:
 
 The folder named 'Reference' is useless.
 
@@ -17,6 +17,8 @@ I will go on fixing my os...
 
 And need girl 'JingJing'!
 
-####Started in 2015.3.15
+###Started in 2015.3.15
 
-#### Based on the Aliyun
+#### Conducted by Zhou Chen Wen & Cui Qingcai & Liao Yuming & Yue Xuanwu & JingJing
+
+### Based on Aliyun
