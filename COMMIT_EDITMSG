@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# 位于分支 master
+# 您的分支与上游分支 'origin/master' 一致。
+# 要提交的变更：
+#   （使用 "git reset HEAD <file>..." 撤出暂存区）
+# 
+# 	修改：     README.md
+# 	重命名：   full/register.html -> Reference/register.html
+# 	重命名：   registerCheck.js -> Reference/registerCheck.js
+# 	重命名：   full/userRegister.css -> Reference/userRegister.css
+# 	修改：     Seat/index.html
+# 	修改：     Seat/seat.css
+# 	新文件：   Seat/seat.js
+# 	删除：     full/registerCheck.js
+# 	修改：     register.html
+# 	修改：     registerCheck.js

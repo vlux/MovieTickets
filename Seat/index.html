@@ -1,16 +1,22 @@
-<html>
+<!-- http://www.jsplugins.net/jquery-seat-charts-plugin/
+这是插件的一个比较详细的介绍，可以看下，然后联系下数据库，更新作为，然后作为参数传给map。
+同样对于数据库里已经卖出去的座位也可以设置status -->
+
+<!DOCTYPE html>
+<html lang="zh-CN">
   <head>
-    <style type = "text/css" src = "seat.css"></style>
+    <meta content = 'text/html' charset = 'utf-8'/>
     <link rel="stylesheet" type="text/css" href="jquery.seat-charts.css">
-    <script src="jquery-1.11.2.min.js"></script>
-    <script src="jquery.seat-charts.js"></script>
+    <link rel="stylesheet" type="text/css" href="seat.css">
+    <script src = "jquery-1.11.2.min.js"></script>
+    <script src = "jquery.seat-charts.js"></script>
   </head>
   <body>
     <div class="demo">
        <div id="seat-map">
-        <div class="front">屏幕</div>
-    </div>
-    <div class="booking-details">
+         <div class="front">屏幕</div>
+       </div>
+       <div class="booking-details">
         <p>演唱会：<span>李政军</span></p>
         <p>时间：<span>5月23日 18:30</span></p>
         <p>座位：</p>
@@ -19,7 +25,8 @@
         <p>总计：<b>￥<span id="total">0</span></b></p>
         <button class="checkout-button">确定购买</button>
         <div id="legend"></div>
+      </div>
     </div>
-</div>
+    <script src = "seat.js"></script>
   </body>
 </html>
