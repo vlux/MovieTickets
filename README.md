@@ -1,7 +1,5 @@
 ##Moive Tickets
 
-###Started in 2015.3.15
-
 ### Explaination:
 
 The folder named 'Reference' is useless.
@@ -26,3 +24,5 @@ We will have a meeting on Sunday night,I will come your doom at about 9.30pm.
 Come on boys!
 
 #### Conducted by Zhou Chenwen & Cui Qingcai & Liao Yuming & Yue Xuanwu & JingJing
+
+###Started in 2015.3.15
