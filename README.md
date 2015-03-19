@@ -9,9 +9,7 @@ Take care the comments in the index.html;(It's awesome!!!!)
 
 The register.html is the webpage that check the input information.
 
-I will go on fixing my os...
-
-And find the girl 'JingJing'!
+I will go on fixing my os...and find the girl 'JingJing'!
 
 ### Mission:
 
